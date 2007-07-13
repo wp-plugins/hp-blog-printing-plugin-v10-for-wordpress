@@ -5,7 +5,7 @@ Requires at least: 2.1
 Tested up to: 2.2
 Stable tag: 1.0
 
-Let readers create customized "wow" prints direct from your blog -- free.
+Let readers create customized "wow" prints direct from your blog Ñ free.
 
 == Description ==
 
